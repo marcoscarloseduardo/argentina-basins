@@ -11,3 +11,5 @@ region_code <- "sa" # selected region code.
 ex. sa = South America
 
 This code is based on the excellent tutorials provided by @milos_agathon.
+
+<img src="plots/ar-river-basins.png" width="450">
